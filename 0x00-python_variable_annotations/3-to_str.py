@@ -7,4 +7,3 @@ as args and returns the str reps of the float.
 def to_str(n: float) -> str:
     """Returns the string representation of the float"""
     return str(n)
-
